@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,matlab,r,sql" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas,opencv" />
-  <br/>
   <img src="https://skillicons.dev/icons?i=linux,git,github,arduino,vscode" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=sklearn,opencv" />
 </p>
 
 
