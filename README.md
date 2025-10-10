@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 About Me
+
+I'm a third year student at Western University. I am doing a honours specialization in computer science with a minor in medical biophysics.
 
 <!--
 **oliverolejar/oliverolejar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Tech Stack
+## 💻 Tech Stack
 <p>
   <!-- Row 1 -->
   <img src="https://skillicons.dev/icons?i=python,java,c,r,matlab" />
