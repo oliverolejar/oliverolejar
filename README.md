@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Tech Stack
+## Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,matlab,r,sql" />
   <br/>
