@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <br/>
 
   <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=cs,cpp,assembly,sql,php" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,php" />
   <br/>
 
   <!-- Row 3 -->
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <br/>
 
   <!-- Row 6 -->
-  <img src="https://skillicons.dev/icons?i=sklearn,opencv,matplotlib" />
+  <img src="https://skillicons.dev/icons?i=sklearn,opencv" />
 </p>
 
 ## 🐍 A Snake Eating my Contributions Graph
