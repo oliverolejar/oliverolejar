@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,matlab,r,sql" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=sklearn,numpy,pandas,opencv" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,arduino,vscode" />
+</p>
+
+
 ## 🐍 A Snake Eating my Contributions Graph
 
 <picture>
