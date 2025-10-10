@@ -15,15 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Tech Stack
+### Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,matlab,r,sql" />
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=python,java,c,r,matlab" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,arduino,vscode" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=sklearn,opencv" />
-</p>
 
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=cs,cpp,assembly,sql,php" />
+  <br/>
+
+  <!-- Row 3 -->
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  <br/>
+
+  <!-- Row 4 -->
+  <img src="https://skillicons.dev/icons?i=windows,linux,git,github,arduino" />
+  <br/>
+
+  <!-- Row 5 -->
+  <img src="https://skillicons.dev/icons?i=raspberrypi,vscode,idea,eclipse" />
+  <br/>
+
+  <!-- Row 6 -->
+  <img src="https://skillicons.dev/icons?i=sklearn,opencv,matplotlib" />
+</p>
 
 ## 🐍 A Snake Eating my Contributions Graph
 
