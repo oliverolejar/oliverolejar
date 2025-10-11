@@ -3,7 +3,7 @@
     <tr>
       <td align="center">
         <img
-          src="https://readme-typing-svg.demolab.com?font=Consolas&size=20&duration=4200&pause=500&color=000000&width=480&background=FFFFFF00&lines=%C2%A0%C2%A0%C2%A0C%3A%5C%3E+echo+Oliver+Olejar;%C2%A0%C2%A0%C2%A0Oliver+Olejar"
+          src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=35&duration=4000&pause=1600&color=000000&width=550&height=85&background=FFFFFF00&vCenter=true&lines=C%3A%5C%3E+echo+Oliver+Olejar;Oliver+Olejar"
           alt="cmd typing"
         />
       </td>
