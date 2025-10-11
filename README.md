@@ -10,6 +10,9 @@
       <img
         src="https://readme-typing-svg.demolab.com?font=Consolas&size=22&duration=2500&pause=1000&color=00FF00&width=740&background=000000&repeat=false&lines=C%3A%5C%3E+Oliver+Olejar"
         alt="cmd typing"
+        <img
+        src="https://readme-typing-svg.demolab.com?font=Consolas&size=22&duration=2300&pause=800&color=00FF00&width=740&background=000000&repeat=false&lines=C%3A%5C%3E+echo+Oliver+Olejar;Oliver+Olejar"
+      />
       />
     </td>
   </tr>
