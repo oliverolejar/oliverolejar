@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADEF&width=435&lines=Oliver+Olejar)](https://git.io/typing-svg)
 # 👋 About Me
 
 I'm a third year student at Western University. I am doing a honours specialization in computer science with a minor in medical biophysics.
