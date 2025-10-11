@@ -1,8 +1,18 @@
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Consolas&size=20&duration=4200&pause=500&color=00FF00&width=520&background=000000&lines=%C2%A0%C2%A0%C2%A0C%3A%5C%3E+echo+Oliver+Olejar;%C2%A0%C2%A0%C2%A0Oliver+Olejar"
-    alt="cmd typing"
-  />
+  <div style="
+      display:inline-block;
+      background:#ffffff;
+      color:#000000;
+      border:1px solid #000000;
+      border-radius:10px;
+      padding:12px 18px;
+      font-family:Consolas, monospace;
+    ">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Consolas&size=20&duration=4200&pause=500&color=000000&width=520&background=FFFFFF00&lines=%C2%A0%C2%A0%C2%A0C%3A%5C%3E+echo+Oliver+Olejar;%C2%A0%C2%A0%C2%A0Oliver+Olejar"
+      alt="cmd typing"
+    />
+  </div>
 </p>
 
 # 👋 About Me
