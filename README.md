@@ -12,8 +12,8 @@ I'm a third year student at Western University. I am doing a honours specializat
 ### 💬 Outside of tech ask me about...
 
 🏋️‍♂️ Weightlifting  
-Water Polo  
-Rock Climbing  
+🤽 Water Polo  
+🧗 Rock Climbing  
 
 <!--
 **oliverolejar/oliverolejar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
