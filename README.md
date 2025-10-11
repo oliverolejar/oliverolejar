@@ -1,6 +1,25 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&background=1E1E1E00&center=true&vCenter=true&width=500&lines=$+Oliver+Olejar"/>
-</p>
+<div align="center">
+
+  <div style="max-width:700px;margin:auto;border:1px solid #30363d;border-radius:12px;background:#0d1117;box-shadow:0 2px 8px rgba(0,0,0,.3);">
+    <!-- Title bar -->
+    <div style="display:flex;gap:8px;align-items:center;padding:8px 12px;background:#161b22;border-top-left-radius:12px;border-top-right-radius:12px;">
+      <span style="display:inline-block;width:12px;height:12px;background:#ff5f56;border-radius:50%;"></span>
+      <span style="display:inline-block;width:12px;height:12px;background:#ffbd2e;border-radius:50%;"></span>
+      <span style="display:inline-block;width:12px;height:12px;background:#27c93f;border-radius:50%;"></span>
+      <span style="margin-left:8px;color:#8b949e;font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono','Courier New', monospace;font-size:12px;">bash — ~/</span>
+    </div>
+
+    <!-- Terminal body -->
+    <div style="padding:18px;">
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=520&lines=%24+Oliver+Olejar"
+        alt="typing terminal"
+      />
+    </div>
+  </div>
+
+</div>
+
 # 👋 About Me
 
 I'm a third year student at Western University. I am doing a honours specialization in computer science with a minor in medical biophysics.
