@@ -1,11 +1,6 @@
 <p align="center">
-  <!-- CMD title bar -->
-  <img src="https://img.shields.io/badge/C:%5CWindows%5CSystem32%5Ccmd.exe-000000?style=flat-square&logo=windows&logoColor=white&labelColor=000000" />
-  <br/>
-
-  <!-- Black screen, green text -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Consolas&size=22&duration=3800&pause=400&color=00FF00&width=740&background=000000&lines=C%3A%5C%3E+echo+Oliver+Olejar;Oliver+Olejar"
+    src="https://readme-typing-svg.demolab.com?font=Consolas&size=22&duration=4200&pause=500&color=00FF00&width=760&background=000000&lines=%C2%A0%C2%A0%C2%A0C%3A%5C%3E+echo+Oliver+Olejar;%C2%A0%C2%A0%C2%A0Oliver+Olejar"
     alt="cmd typing"
   />
 </p>
