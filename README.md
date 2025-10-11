@@ -1,18 +1,14 @@
-<table align="center">
-  <tr>
-    <td>
-      🔴 🟡 🟢 &nbsp; bash — ~/
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=520&lines=%24+Oliver+Olejar"
-        alt="typing terminal"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Linux-ish title bar -->
+  <img src="https://img.shields.io/badge/oliver@ubuntu:~-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <br/>
+
+  <!-- Terminal typing line (green) -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=520&lines=%24+Oliver+Olejar"
+    alt="typing terminal"
+  />
+</p>
 
 # 👋 About Me
 
