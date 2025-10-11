@@ -1,16 +1,14 @@
-<table align="center">
-  <tr>
-    <td><code>oliver@ubuntu:~</code></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=520&lines=%24+Oliver+Olejar"
-        alt="typing terminal"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- CMD title bar -->
+  <img src="https://img.shields.io/badge/C:%5CWindows%5CSystem32%5Ccmd.exe-000000?style=for-the-badge&logo=windows&logoColor=white" />
+  <br/>
+
+  <!-- Typing line (black bg, green text, two lines: command + output) -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=600&background=000000&lines=C%3A%5C%3E+echo+Oliver+Olejar&lines=Oliver+Olejar"
+    alt="cmd typing"
+  />
+</p>
 
 # 👋 About Me
 
