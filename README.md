@@ -1,6 +1,19 @@
-## 👋 About Me
+# 👋 About Me
 
 I'm a third year student at Western University. I am doing a honours specialization in computer science with a minor in medical biophysics.
+
+### 🔭 Areas of Focus
+
+- Machine Learning
+- Embedded Software
+- Signal Processing
+- Medical Imaging (Ultrasound, X-Ray, etc)
+
+### 💬 Outside of tech ask me about...
+
+🏋️‍♂️ Weightlifting
+Water Polo
+Rock Climbing
 
 <!--
 **oliverolejar/oliverolejar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
