@@ -1,14 +1,19 @@
-<p align="center">
+<table align="center" width="740">
   <!-- CMD title bar -->
-  <img src="https://img.shields.io/badge/C:%5CWindows%5CSystem32%5Ccmd.exe-000000?style=for-the-badge&logo=windows&logoColor=white" />
-  <br/>
+  <tr>
+    <td><code>[ C:\Windows\System32\cmd.exe ]</code></td>
+  </tr>
 
-  <!-- Typing line (black bg, green text, two lines: command + output) -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=600&background=000000&lines=C%3A%5C%3E+echo+Oliver+Olejar&lines=Oliver+Olejar"
-    alt="cmd typing"
-  />
-</p>
+  <!-- CMD body -->
+  <tr>
+    <td>
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Consolas&size=22&duration=2500&pause=1000&color=00FF00&width=740&background=000000&repeat=false&lines=C%3A%5C%3E+Oliver+Olejar"
+        alt="cmd typing"
+      />
+    </td>
+  </tr>
+</table>
 
 # 👋 About Me
 
