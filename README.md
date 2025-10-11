@@ -4,7 +4,7 @@
       background:#ffffff;
       color:#000000;
       border:1px solid #000000;
-      border-radius:10px;
+      border-radius:100px;
       padding:12px 18px;
       font-family:Consolas, monospace;
     ">
