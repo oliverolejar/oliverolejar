@@ -17,6 +17,7 @@ I'm a third year student at Western University. I am doing a honours specializat
 
 ### 🔭 Areas of Focus
 
+- Software Engineering
 - Machine Learning
 - Embedded Software
 - Signal Processing
