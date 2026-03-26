@@ -22,6 +22,7 @@ I'm a third year student at Western University. I am doing a honours specializat
 - Embedded Software
 - Signal Processing
 - Medical Imaging (Ultrasound, X-Ray, etc)
+- Medical Biophysics
 
 ### 💬 Outside of tech ask me about...
 
