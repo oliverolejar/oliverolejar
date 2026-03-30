@@ -23,6 +23,7 @@ I'm a third year student at Western University. I am doing a honours specializat
 - Signal Processing
 - Medical Imaging (Ultrasound, X-Ray, etc)
 - Medical Biophysics
+- Neuroscience
 
 ### 💬 Outside of tech ask me about...
 
