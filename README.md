@@ -13,9 +13,9 @@
 
 # 👋 About Me
 
-I'm a fourth year student at Western University currently on co-op. I am doing a honours specialization in computer science with a minor in medical biophysics.
+I'm a fourth year student at Western University currently completing my internship year. I am doing a honours specialization in computer science with a minor in medical biophysics.
 
-### 🔭 Areas of Focus
+### 🔭 Areas of Interest
 
 - Software Engineering
 - Machine Learning
@@ -27,7 +27,7 @@ I'm a fourth year student at Western University currently on co-op. I am doing a
 
 ### 💬 Outside of tech ask me about...
 
-🏋️‍♂️ Weightlifting  
+🏋️‍♂️ The Gym  
 🤽 Water Polo  
 🧗 Rock Climbing  
 
