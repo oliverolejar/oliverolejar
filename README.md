@@ -17,13 +17,7 @@ I'm a fourth year student at Western University currently completing my internsh
 
 ### 🔭 Areas of Interest
 
-- Software Engineering
-- Machine Learning
-- Embedded Software
-- Signal Processing
-- Medical Imaging (MRI, Ultrasound, X-Ray, etc)
-- Medical Biophysics
-- Neuroscience
+<img src="./assets/interests-graph.svg" alt="Software Engineering, Machine Learning, Embedded Software, Signal Processing, Medical Imaging, Medical Biophysics, Neuroscience" width="100%"/>
 
 ### 💬 Outside of tech ask me about...
 
