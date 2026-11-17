@@ -11,9 +11,32 @@
   </table>
 </p>
 
-# 👋 About Me
+</br>
 
-I'm a fourth year student at Western University currently completing my internship year. I am doing a honours specialization in computer science with a minor in medical biophysics.
+# 👋 About Me
+ 
+I'm a 4th year Computer Science + Medical Biophysics student at Western University.
+ 
+### 💼 Experience
+ 
+- 🔜 Incoming **Software Engineer Intern** @ **Verily Health** (formerly Google Life Sciences)
+- 🧠 Currently **ML Research Engineer Intern** @ **Robarts Research Institute**: improving deep learning image segmentation pipelines for Alzheimer's research
+- ⚙️ **Software Engineer Intern** @ **Linamar** ('26): evaluation harnesses for agentic AI in manufacturing, plus data visualization dashboards for factory machines
+- 🤖 **Software Engineer Intern** @ **Linamar** ('25): built an AI agent system that answers technician questions using RAG over robot manuals
+- 🖥️ **IT Support Intern** @ **Linamar** ('24): kept hardware, software, and networks running for engineers at Linamar's Innovation Hub
+
+</br>
+
+### 🏅 Leadership
+ 
+- **Project Manager** @ **Western AI**: led the team behind NeuralApnea Triage, an explainable ECG-based sleep apnea screener
+- **Software Team Lead** @ **Western Engineering Biomedical Club**: led software for MustangMotion, an ACL rehab wearable
+
+</br>
+
+📌 More projects are pinned below and in my repos.
+
+</br>
 
 ### 🔭 Areas of Interest
 
