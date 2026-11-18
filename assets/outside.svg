@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="170" viewBox="0 0 720 170">
+  <style>
+    .label { font-family: 'Cascadia Code', Consolas, 'Courier New', monospace; font-size: 17px; fill: #000; text-anchor: middle; }
+    .emoji { font-size: 58px; text-anchor: middle; }
+  </style>
+
+  <g>
+    <rect x="1" y="10" width="226" height="150" rx="10" fill="#fff" stroke="#000" stroke-width="1.5"/>
+    <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3s" begin="0s" repeatCount="indefinite"/>
+      <text x="114" y="95" class="emoji">🏋️</text></g>
+    <text x="114" y="138" class="label">The Gym</text>
+  </g>
+
+  <g>
+    <rect x="247" y="10" width="226" height="150" rx="10" fill="#fff" stroke="#000" stroke-width="1.5"/>
+    <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3s" begin="1s" repeatCount="indefinite"/>
+      <text x="360" y="95" class="emoji">🤽</text></g>
+    <text x="360" y="138" class="label">Water Polo</text>
+  </g>
+
+  <g>
+    <rect x="493" y="10" width="226" height="150" rx="10" fill="#fff" stroke="#000" stroke-width="1.5"/>
+    <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="3s" begin="2s" repeatCount="indefinite"/>
+      <text x="606" y="95" class="emoji">🧗</text></g>
+    <text x="606" y="138" class="label">Rock Climbing</text>
+  </g>
+</svg>
