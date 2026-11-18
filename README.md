@@ -11,7 +11,7 @@
   </table>
 </p>
 
-</br>
+<br>
 
 # 👋 About Me
  
@@ -25,14 +25,14 @@ I'm a 4th year Computer Science + Medical Biophysics student at Western Universi
 - 🤖 **Software Engineer Intern** @ **Linamar** ('25): built an AI agent system that answers technician questions using RAG over robot manuals
 - 🖥️ **IT Support Intern** @ **Linamar** ('24): kept hardware, software, and networks running for engineers at Linamar's Innovation Hub
 
-</br>
+<br>
 
 ### 🏅 Leadership
  
 - **Project Manager** @ **Western AI**: led the team behind NeuralApnea Triage, an explainable ECG-based sleep apnea screener
 - **Software Team Lead** @ **Western Engineering Biomedical Club**: led software for MustangMotion, an ACL rehab wearable
 
-</br>
+<br>
 
 📌 More projects are pinned below and in my repos.
 
@@ -42,26 +42,13 @@ I'm a 4th year Computer Science + Medical Biophysics student at Western Universi
 
 <img src="./assets/interests-graph.svg" alt="Software Engineering, Machine Learning, Embedded Software, Signal Processing, Medical Imaging, Medical Biophysics, Neuroscience" width="100%"/>
 
+<br>
+
 ### 💬 Outside of tech ask me about...
 
-🏋️‍♂️ The Gym  
-🤽 Water Polo  
-🧗 Rock Climbing  
+<img src="./assets/outside.svg" alt="The Gym, Water Polo, Rock Climbing" width="100%"/>
 
-<!--
-**oliverolejar/oliverolejar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
 
 ## 💻 Tech Stack
 <p>
