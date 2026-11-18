@@ -42,52 +42,8 @@ I'm a 4th year Computer Science + Medical Biophysics student at Western Universi
 <br>
 
 ## 💻 Tech Stack
-<p>
-  <!-- Row 1 -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-FF7F2A?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <br/>
 
-  <!-- Row 2 -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=nasm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <br/>
-
-  <!-- Row 3 -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Scheme-1e4d2b?style=for-the-badge&logo=racket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prolog-8a0707?style=for-the-badge&logo=swi-prolog&logoColor=white"/>
-  <br/>
-
-  <!-- Row 4 -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=statuspage&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <br/>
-
-  <!-- Row 5 -->
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <br/>
-
-  <!-- Row 6 -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
+<img src="./assets/stack-tetris.svg" alt="Tech stack: Python, SQL, C, C++, Java, C#, JavaScript, TypeScript, R, MATLAB, Assembly, PyTorch, TensorFlow, scikit-learn, OpenCV, MONAI, NumPy, pandas, Matplotlib, OpenAI Agents SDK, LangChain, Google ADK, MCP, Langfuse, Docker, Linux, Git, Grafana, Slurm, Snakemake, FastAPI, React, WebSockets, Arduino, Raspberry Pi" width="100%"/>
 
 <!--
 ## 🐍 A Snake Eating my Contributions Graph
