@@ -1,14 +1,5 @@
 <p align="center">
-  <table style="border:1px solid #000000;border-radius:10px;padding:10px;background:#ffffff;">
-    <tr>
-      <td align="center">
-        <img
-          src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=35&duration=4000&pause=1600&color=000000&width=550&height=85&background=FFFFFF00&vCenter=true&lines=C%3A%5C%3E+echo+Oliver+Olejar;Oliver+Olejar"
-          alt="cmd typing"
-        />
-      </td>
-    </tr>
-  </table>
+  <img src="./assets/header.svg" alt="C:\> echo Oliver Olejar" width="100%"/>
 </p>
 
 <br>
